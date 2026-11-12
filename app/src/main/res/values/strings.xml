@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRANSLOY</string>
+    <string name="accessibility_service_label">TRANSLOY Screen Translator</string>
+    <string name="accessibility_service_description">Allows TRANSLOY to display a non-intrusive floating translate bubble and translate foreign text directly on your screen both online and offline. TRANSLOY never stores or shares personal data.</string>
+</resources>
